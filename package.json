@@ -1,0 +1,23 @@
+{
+  "name": "09-mini-project",
+  "version": "1.0.0",
+  "description": "NodeJS Mini Project for UC Davis Coding Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nmounce/09-mini-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nmounce/09-mini-project/issues"
+  },
+  "homepage": "https://github.com/Nmounce/09-mini-project#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
